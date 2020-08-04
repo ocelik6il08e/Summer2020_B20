@@ -1,4 +1,4 @@
-package Office_Hours_07_20_2020.Office_Hours.Office_Hours_07_15_2020;
+package Office_Hours.Office_Hours.Office_Hours_07_15_2020;
 
 public class FrequencyOfWords {
 

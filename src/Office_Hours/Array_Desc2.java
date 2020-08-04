@@ -1,4 +1,4 @@
-package Office_Hours_07_20_2020;
+package Office_Hours;
 
 import java.util.Arrays;
 
