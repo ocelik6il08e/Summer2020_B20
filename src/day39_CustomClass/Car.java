@@ -30,5 +30,12 @@ public class Car {
         System.out.println(year + " " + brand + " " + year + " " + color + " " + mileage + " $" + price);
     }
 
+    public void start(){
+
+        System.out.println(brand + " " + model + " is started.");
+
+    }
+
+
 
 }
