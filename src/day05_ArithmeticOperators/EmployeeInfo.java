@@ -25,7 +25,7 @@ Warmup tasks:
                              isMarried = false
                              salary = 120000.50
              output:
-                        Employee' full name is: John Daniel
+                        day40_CustomClassPractice.Employee' full name is: John Daniel
                         John Daniel' gender is: Male
                         John Daniel' age is: 35 years old
                         John Daniel works at: CapitalOne
@@ -65,7 +65,7 @@ public class EmployeeInfo {
 
 
 
-        System.out.println("Employee' full name is: " + firstName+" " + lastName );
+        System.out.println("day40_CustomClassPractice.Employee' full name is: " + firstName+" " + lastName );
 
         System.out.println( fullName + "' gender is: "  + gender );
 

@@ -12,7 +12,7 @@ public class Task_BulkOperations {
 
         // Remove employee name is Ahmed.
         employeeList.removeAll(Arrays.asList("Ahmed"));
-        System.out.println("Updated Employee List : " + employeeList);
+        System.out.println("Updated day40_CustomClassPractice.Employee List : " + employeeList);
         System.out.println("=====================");
 
         // Remove all employee on list without 'Ali'.

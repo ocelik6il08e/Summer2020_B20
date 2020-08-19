@@ -1,4 +1,4 @@
-package day39_CustomClass;
+package day39_CustomClass.Car;
 
 public class Car {
     /*

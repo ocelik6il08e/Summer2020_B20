@@ -14,15 +14,15 @@ public class Task_Employee_Info {
         boolean isFullTime = true;
         boolean isMarried = false;
 
-        System.out.println("Employee's Name: " + employeeName);
-        System.out.println("Employee's Company: "+companyName);
-        System.out.println("Employee's ID: " + employeeId);
-        System.out.println("Employee's Title: " + jobTitle);
-        System.out.println("Employee's Gender: " + gender);
-        System.out.println("Employee's Age: "+age);
-        System.out.println("Employee's Salary: " +"$ "+ salary);
-        System.out.println("Employee FullTime Position: " + isFullTime);
-        System.out.println("Is Employee Married: " + isMarried);
+        System.out.println("day40_CustomClassPractice.Employee's Name: " + employeeName);
+        System.out.println("day40_CustomClassPractice.Employee's Company: "+companyName);
+        System.out.println("day40_CustomClassPractice.Employee's ID: " + employeeId);
+        System.out.println("day40_CustomClassPractice.Employee's Title: " + jobTitle);
+        System.out.println("day40_CustomClassPractice.Employee's Gender: " + gender);
+        System.out.println("day40_CustomClassPractice.Employee's Age: "+age);
+        System.out.println("day40_CustomClassPractice.Employee's Salary: " +"$ "+ salary);
+        System.out.println("day40_CustomClassPractice.Employee FullTime Position: " + isFullTime);
+        System.out.println("Is day40_CustomClassPractice.Employee Married: " + isMarried);
 
     }
 }

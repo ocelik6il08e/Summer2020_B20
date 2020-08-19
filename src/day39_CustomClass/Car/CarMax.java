@@ -1,4 +1,6 @@
-package day39_CustomClass;
+package day39_CustomClass.Car;
+
+import day39_CustomClass.Car.Car;
 
 public class CarMax {
 
